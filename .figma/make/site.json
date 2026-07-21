@@ -1,0 +1,10 @@
+{
+  "description": "This AI-powered workforce analytics dashboard provides executives with actionable insights on employee performance, automation opportunities, and data integrity, enhancing decision-making for HR and operations leaders.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
