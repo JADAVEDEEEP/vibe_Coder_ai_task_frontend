@@ -133,3 +133,19 @@ This project uses React Router with `BrowserRouter`. The `vercel.json` file rewr
 - PDF export uses the backend `GET /api/export/pdf` route
 - Vercel SPA rewrites are configured
 - Production build passes with `npm run build`
+
+## UI Walktrough
+
+## Dashboard
+
+![alt text](image.png)
+
+## Employee
+
+![alt text](<Screenshot (217).png>)
+
+![alt text](<Screenshot (218).png>)
+
+## Ai workFlow
+
+![alt text](<Screenshot (220).png>)
